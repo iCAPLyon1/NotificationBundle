@@ -1,6 +1,13 @@
 NotificationBundle
 ==================
 
+WARNING
+-------
+
+**DEVELOPMENT HAS MOVED TO [claroline/Distribution](http://github.com/claroline/Distribution). THIS REPOSITORY IS NO LONGER MAINTAINED.**
+
+--------
+
 Notification bundle for Claroline Connect. See https://github.com/claroline/Claroline
 
 [Here](https://github.com/iCAPLyon1/NotificationBundle/blob/master/Resources/doc/system_description.md) is an analysis of what the Notification system does.
